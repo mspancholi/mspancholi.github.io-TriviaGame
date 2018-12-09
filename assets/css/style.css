@@ -1,0 +1,42 @@
+img {
+    width:50%;
+    height:50%;
+    object-fit: contain;
+    }
+    
+  
+  #start {
+    background-color: rgb(85, 161, 223);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12 px; 
+    font-display: bold;
+   
+  }
+
+body {
+    background: url("../images/leaves.png");
+  }
+
+  #title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+  }
+
+  .main-section {
+    max-width: 960px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #eef08d;
+    font-size: 30px;
+    line-height: 50px;
+    color: blue;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  }
+    #count_down {
+     font-size:  50 px;
+     color:  red;  
+     font-display: bold;
+
+
+    }
